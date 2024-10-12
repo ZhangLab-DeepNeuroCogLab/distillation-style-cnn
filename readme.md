@@ -1,5 +1,3 @@
-Here's a simplified version of the README with more emojis:
-
 # 🎨 DISTILLATION-STYLE-CNN
 
 *Use style-transfer to boost continual learning!*
