@@ -4,9 +4,9 @@
 
 **Our paper has been accepted in IEEE Transactions on Neural Networks and Learning Systems.** 
 <p align="left">
-   <a href="https://ieeexplore.ieee.org/document/10937268" target="_blank"><img src="http://img.shields.io/badge/arxiv-TNNLS.svg"></a>
+   <a href="https://ieeexplore.ieee.org/document/10937268" target="_blank"><img src="http://img.shields.io/badge/arxiv-TNNLS-blue.svg"></a>
   &nbsp
-  <a href="https://arxiv.org/abs/2211.11174" target="_blank"><img src="http://img.shields.io/badge/Paper-PDF.svg"></a>
+  <a href="https://arxiv.org/abs/2211.11174" target="_blank"><img src="http://img.shields.io/badge/Paper-PDF-red.svg"></a>
   &nbsp
 </p> 
 
@@ -19,7 +19,7 @@ Continual learning aims to empower AI agents to learn new tasks incrementally wi
 by integrating style-transfer into the learning process to boost generalization and mitigate catastrophic forgetting.
 Our approach leverages a *shape-texture consistency regularization (STCR)* mechanism that uses style-transferred images to encourage the model to learn both robust shape and texture features. This enables the network to perform well on out-of-distribution data while retaining historical information from earlier tasks.
 <p align="center">
-  <img src="./Images/intro.png" alt="Distillation-Style CNN Overview" width="800">
+  <img src="./images/method.png" alt="Distillation-Style CNN Overview" width="800">
 </p>
 
 ## Environment Setup 
