@@ -4,9 +4,9 @@
 
 **Our paper has been accepted in IEEE Transactions on Neural Networks and Learning Systems.** 
 <p align="left">
-   <a href="https://ieeexplore.ieee.org/document/10937268" target="_blank"><img src="http://img.shields.io/badge/arxiv-TNNLS-blue.svg"></a>
+   <a href="https://ieeexplore.ieee.org/document/10937268" target="_blank"><img src="http://img.shields.io/badge/TNNLS-Paper-blue.svg"></a>
   &nbsp
-  <a href="https://arxiv.org/abs/2211.11174" target="_blank"><img src="http://img.shields.io/badge/Paper-PDF-red.svg"></a>
+  <a href="https://arxiv.org/abs/2211.11174" target="_blank"><img src="http://img.shields.io/badge/Arxiv-PDF-red.svg"></a>
   &nbsp
 </p> 
 
